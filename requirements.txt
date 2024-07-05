@@ -32,7 +32,6 @@ mpmath==1.2.1
 multitasking==0.0.11
 munkres==1.1.4
 mypy-extensions==0.4.3
-mysql-connector-python==8.0.32
 namex==0.0.8
 numpy==1.23.5
 oauthlib==3.2.2
