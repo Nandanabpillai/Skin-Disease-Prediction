@@ -73,8 +73,6 @@ scikit-learn==1.2.2
 scipy==1.12.0
 smmap==5.0.1
 streamlit==1.33.0
-tables==3.6.1
-tabulate==0.8.9
 TBB==0.2
 tenacity==8.2.3
 tensorboard==2.12.3
