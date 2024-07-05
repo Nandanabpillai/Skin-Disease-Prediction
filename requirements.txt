@@ -7,7 +7,6 @@ certifi==2021.10.8
 comtypes==1.1.10
 constantly==15.1.0
 cssselect==1.1.0
-cytoolz==0.11.0
 gitdb==4.0.11
 GitPython==3.1.41
 google-auth==2.23.3
